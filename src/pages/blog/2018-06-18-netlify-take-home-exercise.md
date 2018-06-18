@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Netlify take home exercise.
+title: 'Question 1:'
 date: '2018-06-18T22:44:48+01:00'
 description: >-
   Rank your 5 favorite, and 5 least favorite, activities from this list:
