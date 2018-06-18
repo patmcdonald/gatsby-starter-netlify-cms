@@ -1,13 +1,11 @@
 ---
 templateKey: product-page
-title: 'Too much coffee! '
+title: Fixed gear FTW!
 image: /img/squidbikestracklocross.jpg
-heading: What we offer
+heading: Take home exercise.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Hey Chris, here's my take home exercise. That bike is gorgeous, I would gladly
+  mash my knees for a ride of it!
 intro:
   blurbs:
     - image: /img/coffee.png
